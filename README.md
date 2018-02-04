@@ -1,4 +1,4 @@
-# Bottom-TabHost
+# Android Bottom TabHost
 Android TabHost at the Bottom of the Screen
 
 Image
