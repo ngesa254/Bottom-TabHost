@@ -29,13 +29,15 @@ android:layout_height="fill_parent">
             android:id="@+id/tab1"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:background="#ffc916"
+            android:background="#f70c4b"
             android:orientation="vertical">
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:text="This is tab 1" />
+                android:text="TAB A"
+                android:textColor="@color/white"
+                android:gravity="center"/>
 
         </LinearLayout>
 
@@ -49,20 +51,24 @@ android:layout_height="fill_parent">
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:text="This is tab 2" />
+                android:text="TAB B"
+                android:gravity="center"
+                android:textColor="@color/white"/>
         </LinearLayout>
 
         <LinearLayout
             android:id="@+id/tab3"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:background="#5b89ff"
+            android:background="#05c3f9"
             android:orientation="vertical">
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:text="This is tab 3" />
+                android:text="TAB C"
+                android:gravity="center"
+                android:textColor="@color/white"/>
         </LinearLayout>
     </FrameLayout>
 </RelativeLayout>
