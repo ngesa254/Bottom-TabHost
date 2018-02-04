@@ -1,5 +1,6 @@
 # Android Bottom TabHost
-Android TabHost at the Bottom of the Screen
+
+:octocat: Quick guide on creating Android TabHost at the Bottom of the Screen
 
 Image
 -----
