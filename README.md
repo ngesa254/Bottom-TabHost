@@ -5,9 +5,9 @@
 Image
 -----
 
-<img src="Images/banks.png" alt="phone image" width="200px" />
-<img src="Images/hotels.png" alt="phone image" width="200px" />
-<img src="Images/stores.png" alt="phone image" width="200px" />
+<img src="Images/taba.png" alt="phone image" width="200px" />
+<img src="Images/tabb.png" alt="phone image" width="200px" />
+<img src="Images/tabc.png" alt="phone image" width="200px" />
 
 Setup Requirements
 ----------------
